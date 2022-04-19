@@ -9,7 +9,8 @@ from pyrogram.types import ChatPermissions
 import time
 from time import sleep
 
-app = Client('my acount')
+app = Client('TGUB', api_id=1016382, api_hash='c27834e5683d50a9bacf835a95ec4763')
+
 
 app.start()
 
